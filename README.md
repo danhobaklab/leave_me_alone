@@ -1,6 +1,6 @@
 # Leave-Me-Alone
-Interactive Bench with a microcontroller<br>
-For more information,<br>
-<a href="http://dahyepark.com/projects/jovialbanter/jovialbanter.html" target="_blank">http://dahyepark.com/projects/jovialbanter/jovialbanter.html</a>
+<h2>Interactive Bench with a microcontroller</h2>
+<p>For more information,<br>
+<a href="http://dahyepark.com/projects/jovialbanter/jovialbanter.html" target="_blank">http://dahyepark.com/projects/jovialbanter/jovialbanter.html</a></p>
 <img src="https://raw.githubusercontent.com/danhobaklab/leave_me_alone/master/images/leave-me-alone.png">
 <img src="https://raw.githubusercontent.com/danhobaklab/leave_me_alone/master/images/circuit.jpg">
