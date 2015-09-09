@@ -1,2 +1,2 @@
-# leave_me_alone
+# Leave-Me-Alone
 Interactive Bench with a microcontroller
